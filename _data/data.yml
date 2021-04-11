@@ -98,19 +98,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 8.5/10
+      - name: Python (85/100)
         level: 85%
 
-      - name: HTML5, CSS 8.5/10
+      - name: HTML5, CSS (85/100)
         level: 85%
 
-      - name: JavaScript 6/10
+      - name: JavaScript (60/100)
         level: 60%
 
-      - name: C 7/10
+      - name: C (70/100)
         level: 70%
 
-      - name: MySQL 7.5/10
+      - name: MySQL (75/100)
         level: 75%
 
 footer: >
