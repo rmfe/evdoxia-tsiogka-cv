@@ -85,10 +85,10 @@ projects:
 
     assignments:
       - title: Airline DB
-        tagline: "Creation of an Airline DB with Python and Embeded SQL, with Alexios Tsiranidis, for the course 'DataBase I' 2018-2020."
+        tagline: "Creation of an Airline DB with Python and Embeded SQL, for the course 'DataBase I' 2018-2020."
 
       - title: Analyzing the Information System of Sky Express Airline 
-        tagline: "Analyzing and updating the information system of Sky Express Airline web page, with Alexios Tsiranidis, for the course 'Information Systems' 2018-2020."
+        tagline: "Analyzing and updating the information system of Sky Express Airline web page, for the course 'Information Systems' 2018-2020."
 
       - title: Web Design
         tagline: "Creation of a web page with playful questions for children with HTML5, CSS and JavaScript, for the course 'Multimedia' 2020-2021.  Creation of many web pages for the Code Girl 1.0, 2.0, 3.0 Workshops 2015-2016."
