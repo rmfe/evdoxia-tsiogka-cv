@@ -36,6 +36,39 @@ education:
         Ionian University 
    
    
+
+       
+projects:
+    title: Projects
+
+    assignments:
+      - title:  Wordpress
+        tagline: "E-shop creation for a bookstore, for the course 'E-Commerce' 2021-2022"
+    
+      - title:  Internet crawling and privacy
+        tagline: "Research for privacy, for the course 'Social and Legal Issues of ICT' 2021-2022 "
+        
+      - title:  Automatic term recognition 
+        tagline: "Automatic term recognition in the field of cinematography in greek language, for the course ' Language Technology' 2021-2022"    
+        
+      - title:  Video game 
+        tagline: "Creation of serious game with Unity Engine, for the course 'Entertainment Software Technology and Virtual Worlds' 2021-2022"   
+        
+      - title: Diagnosis of central nervous system cancer using macro data
+        tagline: "Machine learning project, for the course 'Bioinformatics' 2020-2021 "
+    
+     - title: Web Design
+        tagline: "Creation of a web page with playful questions for children with HTML5, CSS and JavaScript, for the course 'Multimedia' 2020-2021.  Creation of many web pages for the Code Girl 1.0, 2.0, 3.0 Workshops 2015-2016."
+      
+      - title: Airline DB
+        tagline: "Creation of an Airline DB with Python and Embeded SQL, for the course 'DataBase I' 2019-2020."
+
+      - title: Analyzing the Information System of Sky Express Airline 
+        tagline: "Analyzing and updating the information system of Sky Express Airline web page, for the course 'Information Systems' 2019-2020."
+
+     
+
+
 experiences:
     - role: Code Girl 1.0
       time: 03/15
@@ -71,26 +104,6 @@ experiences:
       details: |
         2015-2018: Kozani, Greece                                
         2018-2020: Corfu, Greece
-        
-    - role: Swimming 
-      company: Hobby
-      time: 2007-2011
-      details: |
-        Kozani, Greece
-       
-projects:
-    title: Projects
-
-    assignments:
-      - title: Airline DB
-        tagline: "Creation of an Airline DB with Python and Embeded SQL, for the course 'DataBase I' 2018-2020."
-
-      - title: Analyzing the Information System of Sky Express Airline 
-        tagline: "Analyzing and updating the information system of Sky Express Airline web page, for the course 'Information Systems' 2018-2020."
-
-      - title: Web Design
-        tagline: "Creation of a web page with playful questions for children with HTML5, CSS and JavaScript, for the course 'Multimedia' 2020-2021.  Creation of many web pages for the Code Girl 1.0, 2.0, 3.0 Workshops 2015-2016."
-
 
 
 skills:
